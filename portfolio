@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html>
+<head> <br>
+  <br>
+ 
+ <title>First-Year Engineering Portfolio</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="style1.css">
+ <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="arrow-btn">
+        <a href="#"><span class="fas.fa-angle-up" ></span>↑↑</a>
+    </div>
+ <header >
+  <h1> First-Year Engineering Portfolio  (MITAOE) </h1> <br>
+  <h2> Monali Babde </h2>
+  <!-- <marquee direction="down" behavior="alternate">
+    <marquee direction="left" behavior="alternate"> 
+        <h2 style="color:rgb(3, 3, 8)"> 
+        Monali Babde  </h2>
+    </marquee></marquee>  -->
+ </header>
+ <br> <br> <br> <br> 
+
+ <nav>
+   <div id="navbar" >
+    <a id="logo" href="#About Me "> About Me </a>
+    <a href="#Education"> Education </a>
+    <a href="#Certificate"> Certificate </a>
+    <a href="#Skills"> Skills </a>
+    <a href="#Projects"> Projects </a>
+    <a href="#Time Table"> Time Table </a>
+    <a href="#Registration Form"> Registration Form </a>
+    <a href="#Millet Year Assignment"> Millet Year Assignment  </a>
+    <a href=" #Drone project"> Drone Project </a>
+    <a href=" #Contact us"> Contact us </a>
+  </div> 
+ </nav>
+<br> <br> <br> 
+
+ <main>
+  <section id="About Me">
+   <h2>ABOUT ME</h2>
+   <p>
+      Welcome to My Digital portfolio <br>
+
+     I am Monali Babde , a passionate Electronics Engineer with a drive for Excellence. Through this portfolio, I aim to showcase my Skills,
+    
+     experiences, and projects to demonstrate my expertise in electrical drawings,planning of projects and seeking various assignments.
+     
+     With one year of experience in Electrical projects and assignments,I have successfully achieved both practical as well as
+     
+     theoretical knowledge of different electrical Instruments.I m constantly seeking new opportunities to grow,learn,and collaborate on
+    
+     exciting ventures. </p>
+     
+     <style>
+        img{
+            height: 250px;
+          width: 200; 
+           position: relative;
+           
+            object-fit: cover; 
+            margin-left: 25%;
+          }
+       </style>
+     <div class="circle">
+        <img src="monali formal1.jpg" alt="Image description">
+      </div>
+            
+  </section>
+  <br>
+
+
+  <section id="Education">
+    <h2>EDUCATION</h2>
+    <ul>
+        <li><strong> SCHOOL: </strong> K. John Public School </li>
+        <li><strong> College: </strong> Saraswat Jr. College </li>
+       <li><strong>  MITAOE</strong>, BTech in Electronics Engineering, Expected Graduation: 2026</li>
+     
+     
+    </ul>
+   </section>
+ <br>
+ <section id="Certificate">
+    <h2>CERTIFICATE</h2>
+    <ul>
+     <li> Cisco Certificate </li>
+     <img src="cisco.jpg">
+    
+    </ul> 
+   </section><br> <br>
+
+
+ <section id="Skills">
+    <h2>SKILLS</h2>
+    <ul>
+     <li>Programming languages: C, PYTHON, HTML, CSS </li>
+     <li>Design software: powerpoint and spreadsheet </li>
+    
+    </ul> 
+   </section><br> <br>
+
+   <section id="Projects">
+    <h2>PROJECTS</h2>
+    <ul>
+     <li><a href="#">Project 1 EGR Portfolio </a>
+        <br> - In that we have upload all our work of engineering graphics.<br> <a href="egr portfolio.html"> EGR Portfolio  </a> </li> 
+     <li><a href="#">Project 2 Bio Locomotion </a> 
+      <br> - In that we made ppt on animal and give presentation.<br>  <a href="bio locomotion.html"> Bio Locomotion </a> </li> <br>
+     <li><a href="#">Project 3 DT Project </a> <br> - In that we made AEIOU sheet and working model  </li>
+  
+  
+    </ul><br>
+   </section>
+ 
+   <section id="Time Table">
+    <h1> TIME TABLE Of B DIVISION </h1>
+    <table border="5" cellspacing="0" align="center">
+        <thead>
+        <caption>Timetable</caption>
+        <tr>
+            <td align="center" height="50"
+                width="100"><br>
+                <b>Day/Period</b></br>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>I<br>8:30-9:20</b>
+            </td>
+            <td align="center" height="50"
+            width="100">
+            <b>II<br>9:20-10:20</b>
+        </td>
+            <td align="center" height="50"
+                width="100">
+                <b>III<br>10:20-10:30</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>IV<br>10:30-11:25</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>V<br>11:25-12:20</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>VI<br>12:20-1:15</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>VII<br>1:15-2:10</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>VIII<br>2:10-3:10</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>IX<br>3:10-4:00</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>X<br>4:00-5:50</b>
+            </td> </thead>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Monday</b></td>
+                <td colspan="2" align="center"
+                height="50">DT LAB</td>
+                <td rowspan="6" align="center" height="50">
+                    <h7>S<br>H<br>O<br>R<br>T<br><br>B<br>R<br>E<br>A<br>K</h7>
+                </td>
+            <td align="center" height="50">SIC</td>
+            <td align="center" height="50">SON </td>
+            <td rowspan="6" align="center" height="50">
+                <h7>L<br>U<br>N<br>C<br>H<br><br>B<br>R<br>E<br>A<br>K</h7>
+            </td>
+            <td 
+            <td align="center" height="50"></td>
+            <td align="center" height="50">MT</td>
+            <td colspan="2" align="center"
+            height="50">ET LAB</td>
+            <td align="center" height="50"></td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Tuesday</b>
+            </td>
+            <td colspan="2" align="center"
+                height="50">GUEST LECTURE
+            </td>
+            <td colspan="2" align="center"
+                height="50">OFFICE HOURS
+            </td>
+            <td align="center" height="50">SIC</td>
+            <td align="center" height="50">AM</td>
+            <td colspan="2" align="center"
+                height="50">EDS LAB
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Wednesday</b>
+            </td>
+            <td align="center" height="50">SON</td>
+            <td align="center" height="50">SIC</td>
+            <td colspan="2" align="center"
+            height="50">FE LAB
+        </td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50">MENTORING</td>
+            <td align="center" height="50">SPORT</td>
+            <td align="center" height="50"></td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Thursday</b>
+            </td>
+            <td align="center" height="50">AM</td>
+            <td align="center" height="50">ET</td>
+            <td colspan="2" align="center"
+            height="50">AM LAB
+        </td>
+            <td align="center" height="50">DT</td>
+            <td align="center" height="50">EDS</td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50"></td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Friday</b>
+            </td>
+            <td colspan="2" align="center"
+                height="50">EDS LAB
+            </td>
+            <td align="center" height="50">SON</td>
+            <td align="center" height="50">EDS</td>
+            <td colspan="2" align="center"
+                height="50">SON LAB
+            </td>
+            <td colspan="2" align="center"
+                height="50">ET DRONE LAB
+            </td>
+        </tr>   
+        <tr>
+            <td align="center" height="50">
+                <b>Saturday</b>
+            </td>
+            <td colspan="2" align="center"
+                height="50">INDIAN CONSTITUTION
+            </td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50"></td>
+            <td align="center" height="50"></td>
+        </tr>
+    
+    </table>
+  </section>
+     <br> <br> <br> 
+
+    <!-- <head>
+        <meta charset="UTF-8">
+            <meta http-equiv="x-UA-comatible" content="IF=edge">
+            <meta name="viewport" content="width=device-width,initial-scale=1.0">
+            <title> Portfolio </title>
+            <link rel="stylesheet" href="web page.css">
+    </head> -->
+   
+            <body>
+                <section id="Registration Form">
+                <h1>
+                    REGISTRATION FORM
+                </h1>
+                <form id="information">
+                    Candidate Full Name:   <input type="text" placeholder= "Candidate Full Name"> 
+                    <br> <br>
+                    Father name:  <input type="text" placeholder =" Father name"> 
+                    <br> <br> 
+                    Mother  Name:   <input type="text" placeholder="Mother  Name"> 
+                    <br> <br> 
+                    Gender: 
+                            <select gender="gender">
+                                <option value ="male">male</option>
+                                <option value ="Female">female</option>
+                                
+                            </select>
+                            <br> <br>
+                            Date of Birth: <input type="date"> 
+                            <br> <br>
+                            E-mail : <input type="text"  placeholder= "email@xyz.com">
+                    <h2>
+                        Department: 
+                    </h2>
+                
+                <label for ="101">
+                    <input type ="radio" value="computer science" name ="branch" id= "101">computer science
+                </label>
+                <br>
+                <label for="102">
+
+                    <input type ="radio" value="electrical engineering" name ="branch" id= "102">electrical engineering
+                </label>
+                <br>
+                 <label for="103">
+
+                    <input type ="radio" value="mechanical engineering" name ="branch" id= "103">mechanical engineering
+                </label>
+                <br>
+                <label for="104">
+
+                    <input type ="radio" value="civil engineering" name ="branch" id= "104">civil engineering
+                </label>
+                <br>
+                <label for="105">
+
+                    <input type ="radio" value="chemical engineering" name ="branch" id= "105">chemical engineering
+                </label>
+                <br> <br> 
+                Mobile Number : <input type="Number"  placeholder= "xxxxxxxxxx">
+                <br> <br> 
+                OTP : <input type="Number"  placeholder= "xxxx">
+                <br> <br>
+                Address : <input type="text"  placeholder >
+                <br> <br>
+
+                <input type="submit" value=" Submit ">
+
+            
+
+                </form>
+                </section>
+            </body>
+        </title>
+  <br> <br> <br> 
+
+  <!-- <!DOCTYPE html>
+  <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <meta http-equiv="x-UA-comatible" content="IF=edge">
+          <meta name="viewport" content="width=device-width,initial-scale=1.0">
+          <title> css level 3</title>
+          <link rel="stylesheet" href="style2.css">
+      </head> -->
+      
+      <body>
+        <section id="Millet Year Assignment">
+        <h1>
+          MILLET YEAR ASSIGNMENT 
+        </h1>
+        <div id="box5"> PROBLEM AREA: </div>
+
+        <div id="box2">Good Health and Well-being and Millet.</div>
+        <br> <br>
+        <div id="box7"> PROBLEM SOLUTION: </div>
+        <div id="box8"> Promoting millet consumption 
+          for better health and sustainable 
+          food systems. </div> <br>
+           <div id="box3">Introduction:</div>
+        <p>    Good health and well-being encompass physical, mental, and social 
+          dimensions. It involves maintaining a healthy body through regular 
+          exercise, proper nutrition, and adequate rest.<br> 
+           Good health and well-being are essential for a balanced and fulfilling 
+          life. Incorporating millets into our diets can contribute significantly 
+          to our overall well-being. </p> <br> 
+          <div id="box3">Need For Solution: </div>
+          <p> 
+               The nutritional value of millet supports energy production, digestion, and 
+              immune system health.<br>
+               Millet's nutritional profile can contribute to improved heart health, blood sugar 
+              control, and overall nutritional well-being.<br>
+               Desirable natural compounds for health.
+              </p>
+              <img src="m1.jpg"> <br> <br>
+
+            <div id="box3">Health Benefit of Millet:</div>
+              <p>  Reduce high Blood 
+                  pressure <br>
+                   Slows Muscle 
+                  Degradation <br>
+                   They reduce the risk of 
+                  type 2 diabetes mellitus <br>
+                   May help regulate blood 
+                  sugar levels</p>
+                  <img src="m2.jpg" height="250px;"> <br> <br> <br>
+
+                  <div id="box3">Proposed Solution :</div> <br>
+                  <p> Nano materials for food applications<br>
+                     Safety and risks Waste disposal Environmental exposure </p>
+                  <h3>  Education and Awareness 
+                      Campaigns </h3>
+                  <img src="m3.jpg"> 
+                  <h4>  Integration of Millets in 
+                    Public Health Programs </h4>
+                    <img src="m4.jpg">
+                    <h5>  Biodegradable packaging </h5>
+                    <img src="m5.jpg" height="180px;">
+                    <br> <br> 
+                    <div id="box3"> MILLETS: </div>
+                    <br> <br>
+                    <img src="m6.jpg"> <br>
+                    <p>  Promoting good health and well-being through the incorporation of millets into 
+                      our diet offers a sustainable solution with numerous benefits. <br> 
+                       The solution can make the significance changes in the daily life style. <br>
+                     
+                       Overcome on Common Health Issues with the help of proposed solution.<br>
+                       If we all work together and come as one we can stop the death rates due to 
+                      illnesses for good. </p>
+        
+                      </section>
+
+      </body>
+      
+      <br> <br> <br> 
+ 
+   <section id="Contact us">
+    <h2>CONTACT ME</h2>
+    <p>You can reach me at:</p>
+    <ul>
+     <li>Email: monali.babde@mitaoe.ac.in</li>
+     <li>Phone: 9322484542</li>
+     <li>Address: Kale colony Alandi, Pune </li>
+     <li>Social media: instagram:
+        <a href="https://instagram.com/monalibabde?igshid=ZDc4ODBmNjlmNQ=="> instagram </a> <br> <br>
+         <!-- <A HREF="https://instagram.com/monalibabde?igshid=ZDc4ODBmNjlmNQ=="><H1>
+      <img SRC="C:\Users\HP\Desktop\iot\New folder\ins.jpg"BORDER="5" HEIGHT="50"WIDTH="100"></H1> </A> -->
+        linkedin: 
+         <a href="https://www.linkedin.com/in/monali-babde-243b30264 "> linkedin </a> <h1> </li>
+          <!-- <img SRC="C:\Users\HP\Desktop\iot\New folder\ins.jpg"BORDER="5" HEIGHT="50"WIDTH="100"></H1> </A> </li>  -->
+    </ul>
+   </section>
+   
+  </main>
+ <br> <br>
+  <footer>
+   <p5>
+     Copyright &copy; First-Year Engineering Portfolio - Monali Babde </p5> 
+  </footer>
+ 
+ </body>
+ </html> 
